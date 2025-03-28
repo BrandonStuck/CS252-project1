@@ -1,0 +1,8 @@
+public class urmom{
+
+  public static void Main(String[] args){
+    while (true){
+      System.out.print("urmom");
+      }
+}
+}
